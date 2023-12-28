@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Social Media App</h1>
+<h1 align="center" id="title">Homies</h1>
 
-<p id="description">Social media app using MERN Stack. Allowing to Creating User's registration Login Adding Posts giving Like and Comments.</p>
+<p id="description">Homies is Social media app Build using MERN Stack. Allowing to Creating User's registration Login Adding Posts giving Like and Comments.</p>
 
   
   
